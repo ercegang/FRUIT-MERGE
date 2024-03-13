@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Kas yra:
 
 1.Horizontal Movement A/D or Left Arrow/ Right Arrow;
@@ -27,3 +28,7 @@ Kas yra:
 13.Random Spawn;
 
 14.WebGL link: https://play.unity.com/p/webgl-builds-395688
+=======
+# FRUIT MERGE
+ nepavyko pabaigti bandysiu namie dar
+>>>>>>> 61751c29269f6058e74f3078786e7b0320643aa5
